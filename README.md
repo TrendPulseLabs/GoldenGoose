@@ -5,12 +5,12 @@
 **A single-engine, fully open-source gold trading Expert Advisor for MetaTrader 5.**
 Not a demo. Not a detuned trial. The real engine — source and all.
 
-[![Free](https://img.shields.io/badge/price-free%20forever-C6A052)](https://trendpulselabs.github.io/)
+[![Free](https://img.shields.io/badge/price-free%20forever-C6A052)](https://trendpulselabs.netlify.app/)
 [![License](https://img.shields.io/badge/license-see%20LICENSE-4B7BF5)](./LICENSE)
 [![MT5](https://img.shields.io/badge/platform-MetaTrader%205-EDE6D6)](https://www.metatrader5.com/)
 [![Gold](https://img.shields.io/badge/market-XAUUSD%20only-E9CD84)](#the-account-rule)
 
-[Landing page](https://trendpulselabs.github.io/) · [Documentation](https://drive.google.com/drive/folders/1hs271IgDDpWyc_rVt1Ud6rA2V0ttW2GL?usp=sharing) · [Backtest results](https://drive.google.com/drive/folders/1g8kcJO-PKm7I-Pa6MYpyC3xMUGzcVQDb?usp=sharing) · [Live demo (FXBlue)](https://www.fxblue.com/users/EddyTrendPulse) · [Telegram](https://t.me/+ZJK0gS8BuREyN2Jk) · [Discord](https://discord.gg/8sKk7mD4b8)
+[Landing page](https://trendpulselabs.netlify.app/) · [Documentation](https://drive.google.com/drive/folders/1hs271IgDDpWyc_rVt1Ud6rA2V0ttW2GL?usp=sharing) · [Backtest results](https://drive.google.com/drive/folders/1g8kcJO-PKm7I-Pa6MYpyC3xMUGzcVQDb?usp=sharing) · [Live demo (FXBlue)](https://www.fxblue.com/users/EddyTrendPulse) · [Telegram](https://t.me/+ZJK0gS8BuREyN2Jk) · [Discord](https://discord.gg/8sKk7mD4b8)
 
 </div>
 
@@ -125,7 +125,7 @@ Don't trust the backtest — reproduce it.
 
 GoldenGoose is free forever. It runs on optional [coffee coins](https://buymeacoffee.com/eddyforniai) from people it's helped, which cover the VPS and the next round of research. The next release is built from real forward-test data — send your CSV or a bug report on [Telegram](https://t.me/+ZJK0gS8BuREyN2Jk) or [Discord](https://discord.gg/8sKk7mD4b8) and you'll get early access plus a changelog credit.
 
-Want the full four-engine ensemble, continuous re-tuning, and Squeeze v2? → **[TrendPulse APEX Pro v6](https://trendpulselabs.github.io/apex/)**
+Want the full four-engine ensemble, continuous re-tuning, and Squeeze v2? → **[TrendPulse APEX Pro v6](https://trendpulselabs.netlify.app/apex/)**
 
 ---
 
