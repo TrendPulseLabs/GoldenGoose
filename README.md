@@ -131,8 +131,8 @@ Want the full four-engine ensemble, continuous re-tuning, and Squeeze v2? → **
 
 ## Links
 
-- **Home / landing page** — https://trendpulselabs.github.io/
-- **Premium — APEX Pro v6** — https://trendpulselabs.github.io/apex/
+- **Home / landing page** — https://trendpulselabs.netlify.app/
+- **Premium — APEX Pro v6** — https://trendpulselabs.netlify.app/apex/
 - **Documentation & user guides** — https://drive.google.com/drive/folders/1hs271IgDDpWyc_rVt1Ud6rA2V0ttW2GL?usp=sharing
 - **Backtest results** — https://drive.google.com/drive/folders/1g8kcJO-PKm7I-Pa6MYpyC3xMUGzcVQDb?usp=sharing
 - **Live-tracked demo (FXBlue)** — https://www.fxblue.com/users/EddyTrendPulse
